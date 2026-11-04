@@ -1,0 +1,14 @@
+{
+  "item.randowand.randowand": "Rando Wand",
+  "itemGroup.randowand": "RandoWand",
+
+  "tooltip.randowand.title": "[Controls]",
+  "tooltip.randowand.control1": "- Shift + Right-Click (Block in offhand): Store stack",
+  "tooltip.randowand.control2": "- Shift + Right-Click (Empty offhand): Undo last entry",
+  "tooltip.randowand.control3": "- Right-Click: Place random block",
+  "tooltip.randowand.control4": "- returns the items that are inside when broken",
+
+  "randowand.configuration.title": "RandoWand Configs",
+  "randowand.configuration.wandDurability": "Wand Durability",
+  "randowand.configuration.wandMaxStackSize": "Max Stack Size"
+}

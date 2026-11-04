@@ -1,0 +1,15 @@
+[04Nov2026 20:35:47.637] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_data, --assetIndex, 17, --assetsDir, /home/genralk/.minecraft/assets, --gameDir, ., --mod, examplemod, --all, --output, /home/genralk/RandoWand-forge/src/generated/resources, --existing, /home/genralk/RandoWand-forge/src/main/resources]
+[04Nov2026 20:35:47.639] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.11+10-LTS
+[04Nov2026 20:35:47.640] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.11 by Microsoft; OS Linux arch amd64 version 7.2.11-arch1-1
+[04Nov2026 20:35:47.700] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_data
+[04Nov2026 20:35:47.760] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///home/genralk/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=UNKNOWN
+[04Nov2026 20:35:48.378] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[04Nov2026 20:35:48.837] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_data' with arguments [--gameDir, ., --assetsDir, /home/genralk/.minecraft/assets, --assetIndex, 17, --mod, examplemod, --all, --output, /home/genralk/RandoWand-forge/src/generated/resources, --existing, /home/genralk/RandoWand-forge/src/main/resources]
+[04Nov2026 20:35:51.435] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.1.21, for MC 1.21.1 with MCP 20240808.132146
+[04Nov2026 20:35:51.435] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.1.21 Initialized
+[04Nov2026 20:35:51.460] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[04Nov2026 20:35:51.496] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[04Nov2026 20:35:51.499] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 1.717 milliseconds
+[04Nov2026 20:35:51.581] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [examplemod]
+[04Nov2026 20:35:51.609] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/genralk/RandoWand-forge/.gradle/mavenizer/repo/net/minecraftforge/forge/1.21.1-52.1.21/forge-1.21.1-52.1.21.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[04Nov2026 20:35:51.609] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/genralk/RandoWand-forge/.gradle/mavenizer/repo/net/minecraftforge/forge/1.21.1-52.1.21/forge-1.21.1-52.1.21.jar%230!/data/.mcassetsroot' uses unexpected schema

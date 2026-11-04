@@ -1,0 +1,26 @@
+# See https://docs.minecraftforge.net/en/1.21.x/gettingstarted/modfiles/#modstoml
+
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GPL-3.0"
+
+[[mods]]
+modId="randowand"
+version="1.0.0"
+displayName="RandoWand"
+authors="Toxicbullet-code"
+description='''A utility mod for random block placement gradients.'''
+
+[[dependencies.randowand]]
+modId="forge"
+mandatory=true
+versionRange="[0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.randowand]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.1,1.22,)"
+ordering="NONE"
+side="BOTH"
